@@ -1,0 +1,8 @@
+************** Première Ligue du Québec **************
+
+Nom équipe                :  MJ   V   D   N PTS  BP  BC DIF
+=========================   === === === === === === === ===
+FC Sherbrooke             :   3   1   1   1   4   9   8   1
+Real Gatineau             :   3   0   3   0   0   4  10  -6
+AS Laval                  :   3   1   1   1   4   8   9  -1
+AC Drummondville          :   3   3   0   0   9  10   4   6

@@ -1,0 +1,11 @@
+*************** Ligue Universitaire du Québec **************
+
+Nom équipe                :  MJ   V   D   N PTS  BP  BC DIF
+=========================   === === === === === === === ===
+Carabins                  :   0   0   0   0   0   0   0   0
+RougeOr                   :   0   0   0   0   0   0   0   0
+VertOr                    :   0   0   0   0   0   0   0   0
+Redmen                    :   0   0   0   0   0   0   0   0
+Stingers                  :   0   0   0   0   0   0   0   0
+Citadins                  :   0   0   0   0   0   0   0   0
+Patriotes                 :   0   0   0   0   0   0   0   0
